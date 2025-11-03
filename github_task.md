@@ -8,3 +8,9 @@
    - Select **“Commit directly to the main branch.”**
 6. Click **Commit changes**.
 7. Done! 🎉
+
+## ⚠️ A few practical tips
+
+- **Edit only your assigned row.** Do not change commas or quotation marks.
+- If you make a mistake, no worries — every version is saved.
+- If you see a message about a conflict, tell the instructor — we’ll fix it together.
